@@ -4,3 +4,4 @@ django-heroku
 black
 flake8
 coveralls
+coverage
