@@ -3,4 +3,4 @@ gunicorn
 django-heroku
 black
 flake8
-coverall
+coveralls
